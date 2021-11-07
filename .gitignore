@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+*.mxproject
+*.project
+*.cproject
+*.prefs
+*.xml
+**/Debug
+**/Release
+**/.settings
